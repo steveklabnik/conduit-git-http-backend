@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Host",""],["Method",""],["Scheme",""]],"struct":[["Response",""],["TypeMap",""]],"trait":[["Handler","A Handler takes a request and returns a response or an error. By default, a bare function implements `Handler`."],["Headers",""],["Request",""]],"type":[["Extensions","A Dictionary for extensions provided by the server or middleware"]]});
